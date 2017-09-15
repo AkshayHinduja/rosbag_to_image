@@ -1,4 +1,4 @@
-# Rosbag to Image Extracter README
+# Rosbag to Image Extractor README
 
 Extract images from a ROS bag in PNG format.
 
